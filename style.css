@@ -1,0 +1,136 @@
+body{
+        box-sizing: border-box;
+        padding: 0;
+        margin-left: 20px;
+        margin-top: 20px;
+        height: 100vh;
+        font-family:"Allerta", sans-serif ;
+        /* font-weight: 200; */
+      }
+    #navbarMonstera{
+        display: grid;
+        grid-template-columns: 0.7fr 3fr 0.7fr;
+        height: 15vh;
+        border: 3px solid slateblue;
+}
+
+#navMid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 60px;
+    border: 3px solid red;
+    
+
+}
+
+#navFirst{
+    border: 3px solid greenyellow;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-right: 50px;
+
+
+
+}
+
+#navMid>div>h4{
+    margin: 0px 60px;
+    border: 3px solid red;
+    font-size: 30px;
+
+
+}
+
+#navEnd{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid blue;
+    margin-right: 70px;
+}
+
+#navEnd >div>img{
+    border: 1px solid yellow;
+    margin:0px 20px
+}
+
+
+#midWhole{
+    border: 3px solid salmon;
+    
+}
+
+#midWholePart1{
+    border: 1px solid pink;
+    margin-right: 650px;
+
+}
+#midWholePart11{
+    margin-top: 50px;
+    border: 1px solid red;
+    
+}
+#monstera{
+    font-size: 160px;
+    margin-bottom: 0;
+}
+li{
+    margin-top: 0;
+    margin-right: 300px;
+    font-size: 18px;
+    
+}
+
+#midWholePart121{
+    border: 3px solid yellow;
+    background-color: #25522e;
+    display: flex;
+    padding: 0px 70px;
+    width: 200px;
+    font-size: 18px;
+    border-radius: 50px;
+    margin:10px;
+    color: #fff;
+    
+}
+#midWholePart122{
+    margin-top: 35px;
+    margin-left: 20px;
+}
+
+
+#midWholePart13{
+    display: flex;
+    flex-direction: row;
+    border: 3px solid blueviolet;
+}
+
+.midWholePart13Parts{
+    display: flex;
+    border: 3px solid green;
+    align-items: center;
+    justify-content: center;
+    padding:10px 100px 10px 50px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#imgMain{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 30;
+}
