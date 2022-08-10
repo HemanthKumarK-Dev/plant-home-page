@@ -9,7 +9,7 @@ Built With
 Learnings
 - Learned how to use icons
 - Learned about positions and buttons
-
+- Learned about margins and padding
 Time Taken to complete
 - 3 hours
 
